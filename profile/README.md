@@ -14,9 +14,9 @@ and tested the software according to the acceptance criteria they defined.
 Congratulations to the teams that earned extra credit for
 publishing their web sites on the public Web.
 
-* [Flappy Bird Game](https://cris-cs-kaopang.github.io/flappy-bird/)
 * [Hangman Game](https://cris-cs-chan30.github.io/hangman-game/)
-* [2d Shooter Game](https://cris-cs-caleb.github.io/2DShooterGame/)
 * [Dress Up Game](https://cris-cs-fhun.github.io/pixel-pals/)
+* [2d Shooter Game](https://cris-cs-caleb.github.io/2DShooterGame/)
 * [Flappy Bird Game](https://cris-cs-jedi.github.io/flappy-bird/)
+* [Flappy Bird Game](https://cris-cs-kaopang.github.io/flappy-bird/)
 * [Snake Game](https://cris-cs-teety.github.io/snake-game/)
